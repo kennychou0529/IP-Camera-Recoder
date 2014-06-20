@@ -20,7 +20,8 @@ http://apps.microsoft.com/windows/app/ip/0b4528ad-cae4-463e-997f-f6265a3364bf
 
 IP攝像頭錄影機是一個易於使用的MJPEG視頻流錄製工具，它被設計於錄製從APP（像 ‘IP Camera for Windows Phone’, ‘IP Camera for Android’, ‘IP Camera for Windows 8.1′）或者設備傳輸過來的mjpeg視頻流，並轉換成mpeg4或者無壓縮的AVI格式並保存到電腦上播放。
 
-
+/* URL */
+-----------------------------------
 For more information, please visit:
 http://www.haban.cn/
 
