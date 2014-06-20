@@ -1,6 +1,6 @@
 ﻿IP Camera Recoder
 =================
-### NOTE!!! If you use Windows 8.1 you can try 'IP Camera for Windows 8.1', it provide this feature.
+### NOTE!!! If you use Windows 8.1 you can try 'IP Camera for Windows 8.1', it provides this feature.
 http://apps.microsoft.com/windows/app/ip/0b4528ad-cae4-463e-997f-f6265a3364bf
 
 IP Camera Recoder is designed for recording mjpeg stream from APP(likes 'IP Camera for Windows Phone', 'IP Camera for Android', 'IP Camera for Windows 8.1') or other devices, and encode into mpeg4 or avi format.
